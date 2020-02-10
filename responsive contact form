@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <meta charset="UTF-8">
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title> STEM FOR NAIJA </title>  
+	   <link rel="stylesheet" type="text/css"href="riches.css"/>
+	    <link rel="stylesheet" type="text/css"href="reset.css"/>
+		<script src="https://kit.fontawesome.com/017d7702fa.js"></script>
+		  
+ </head>
+   <body>
+     <div id="container">
+	   <div id="header">
+	   <img src="logo1.JPG" width="10%" height="100%"<h1><b>STEM FOR NAIJA</b></h1></img>
+	   <a href="https://twitter.com/stemfornaija"><i class="fab fa-twitter-square"></i>
+		<a href="https://instagram.com/stemfornaija"><i class="fab fa-instagram"></i>
+		<a href="https://facebook.com"><i class="fab fa-facebook-square"></i>
+	   </div>
+	   
+	    <div class="contact-form">
+		<h1>contact us</h1>
+		<div class="txtb">
+		<label>Full Name</label>
+		<input type="Email" name=" "
+		<valua=" " placeholder="Enter Your Email">
+		</div>
+		
+		<div class="txtb">
+		<label>Phone Number:</label>
+		<input type="text" name=" "
+		<valua=" " placeholder="Enter Your Phone Number">
+		</div>
+		
+		<div class="txtb">
+		<label>Massage:</label>
+		<textarea></textarea>
+		</div>
+		
+		<a class="btn">Send</a>
+		</div>
+	   
+	  <section id="poot">
+    <div class="block">
+	<div class="back">
+	<div class="form-group">
+	
+	
+	
+	</div>
+	
+	
+	<div class="fat">
+	 <div class="follow"><b>Address:</b><i class="fa fa-map-marker"></i>50 fadiya street, Ketu. Lagos</div>
+	 <br>
+	 <div class="follow"><b>Phone:</b><i class="fa fa-Phone"></i>234-8020777006</div>
+	 <br>
+	 <div class="follow"><b>Email:</b><i class="fa fa-envelop-o"></i>info@stemfornaija.org.ng</div>
+	 <br>
+	  <div class="follow"><label><b>Get Social:</b></label>
+	  <a href="https://facebook.com"><i class="fab fa-facebook-square"></i>
+	 <a href="https://instagram.com/stemfornaija" target="_blank"><i class="fab fa-instagram"></i>
+	 <a href="https://twitter.com/stemfornaija" target="_blank"><i class="fab fa-twitter-square"></i>
+	  </div>
+	 </div>
+   </div>
+  </div>
+  </section>
+  
+	 
+    
+   <hr>
+
+   <a class="button" href="index.html" style=" color:red">HOME</a>
+   
+    </div>
+ 
+   
+  </body>
+</html>  
+      
